@@ -44,7 +44,7 @@ jobs:
             log_level: info
             #prod
             base_url: "https://deu.ast.checkmarx.net"
-            environment_id: "085a9321-d79e-4cd7-a154-0f27fdea7956"
+            environment_id: "ebdbb27c-b90e-487e-8cfa-043bfb330b49"
             # canary
             #base_url: "https://deu.ast.checkmarx.net"
             #environment_id: "xxx"
